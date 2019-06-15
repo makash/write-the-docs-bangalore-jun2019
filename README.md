@@ -24,6 +24,8 @@ These are popular
 
 - Documentation Process
 - Get Started page was cluttered
+- Getting started should be part of the same documentation
+- Important to include videos
 
 ## References
 
@@ -58,3 +60,4 @@ These are popular
 ### Tools
 
 - [curl replacement by Twitter or OAuth Workflows](https://github.com/twitter/twurl)
+- [Asciinema](https://asciinema.org/)
