@@ -1,12 +1,16 @@
 # Write the docs - Bangalore meetup June 2019
 
-- Break all the assumptions
-- Docs are the first interface
-- Self-starter and element of interactivity
+## Talk and Presentations
+
+1. By Pema
+2. [The Journey to creating an effective Getting Started Guide](https://docs.google.com/presentation/d/18MQCZ9C-u1bZT0IA3vOgpkNskPF7WxVriSftMCQ1icI/edit#slide=id.g5bea211a7d_0_5) by [Lubaina Rangwala - Product Marketing Specialist at Thoughtworks](http://www.lubainarangwala.com)
 
 
 ## Important concepts from Pema's talk
 
+- Break all the assumptions
+- Docs are the first interface
+- Self-starter and element of interactivity
 - Getting started guide
 - Authentication Mechanisms
     - Created separately
@@ -27,12 +31,7 @@ These are popular
 - Getting started should be part of the same documentation
 - Important to include videos
 
-## References
-
-### Presentations
-
-- []() by [Pema]()
-- [The Journey to creating an effective Getting Started Guide](https://docs.google.com/presentation/d/18MQCZ9C-u1bZT0IA3vOgpkNskPF7WxVriSftMCQ1icI/edit#slide=id.g5bea211a7d_0_5) by [Lubaina Rangwala - Product Marketing Specialist at Thoughtworks](http://www.lubainarangwala.com)
+## References 
 
 ### Terms
 
