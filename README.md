@@ -60,3 +60,5 @@ These are popular
 
 - [curl replacement by Twitter or OAuth Workflows](https://github.com/twitter/twurl)
 - [Asciinema](https://asciinema.org/)
+- [Stackedit](https://stackedit.io)
+- [MDXC Playground](http://dump.jamesknelson.com/mdxc-playground.html)
